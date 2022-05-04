@@ -1,7 +1,7 @@
 # DS290422-Python-Bharati
 
-# Steps to access this repo
-# 1. Download and Install Git Bash in your desktop (Link - https://git-scm.com/downloads for downloading for git bash)
+# Steps to access this repository
+# 1. Download and Install Git Bash in your desktop  (https://git-scm.com/downloads - link to download for git bash)
 # 2. Create a folder in your system and name it as "DS290422"
 # 3. Right Click on the folder "DS290422" and click on "Git Bash Here"
 # 4. An Git Command Prompt will open
