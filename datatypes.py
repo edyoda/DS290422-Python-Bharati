@@ -23,27 +23,27 @@ None
 """
 
 
-# int datatype
+# int datatype - immutable
 num = 20
 print(type(num))
 
 
-# float datatype
+# float datatype - immutable
 num_1 = 56.7
 print(type(num_1))
 
 
-# str datatype
+# str datatype - immutable
 name = "Edyoda"
 print(type(name))
 
 
-# bool datatype
+# bool datatype - immutable
 female = True
 print(type(female))
 
 
-# complex datatype
+# complex datatype - immutable
 complex = 3+2j
 print(type(complex))
 
@@ -77,6 +77,9 @@ print(set_example)
 
 # dict datatype
 # dict - {key:pair} , mutable, non-indexed, it stores data in key and value format
+# key - should always be unique
+# values - can be duplicate
+# keys can be of any datatype
 names = {"Rajkumar":"Bharati",2:"Hritik",3:"Ram",4:"Bharati"}
 print(names[2])
 names[5] = "Meraj"
