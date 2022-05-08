@@ -3,7 +3,7 @@
 # in - returns True if a sequence with the specified value is 
 # present in the object
  
-# not in - retruns True if a sequence with the specified value is not 
+# not in - returns True if a sequence with the specified value is not 
 # present in the object
 
 lst1 = [10,20,30,40,50]

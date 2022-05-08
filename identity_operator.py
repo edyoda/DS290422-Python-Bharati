@@ -1,7 +1,7 @@
 # Identity Operator
 
-# is - returns True if both the variables are the same object , it works like '=='
-# is not - returns True if both the variables are not the same object
+# is - returns True if both the variables points to the same object.
+# is not - returns True if both the variables points to the different object.
 
 
 num1 = 10

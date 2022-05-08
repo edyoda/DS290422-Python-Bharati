@@ -9,3 +9,9 @@
 # 6. Inside DS290422 folder one more folder will get created named as "DS290422-Python-Bharati"
 # 7. Inside "DS290422-Python-Bharati" you will get all the python files
 # 8. Now you can open the "DS290422-Python-Bharati" folder in your Visual Studio Code and access it
+
+
+
+# Steps to get the latest code
+# Make sure you are in the correct folder which is "DS290422-Python-Bharati"
+# Enter the command "git pull" and now you can access it
