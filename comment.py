@@ -5,7 +5,7 @@ Multiline comment
 """
 
 """
-Shortcuts for commenting and uncommenting the code
+Shortcuts for commenting and uncommenting the code in VSCode
 
 1. Select the set of lines you want to comment
 2. Press Ctrl + K

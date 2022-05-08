@@ -7,7 +7,7 @@
 # >= - greater than equal to
 # <= - less than equal to
 
-num_1 = 50
+num_1 = 50 
 num_2 = 50
 
 # ==
