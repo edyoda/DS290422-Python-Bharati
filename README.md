@@ -12,6 +12,6 @@
 
 
 # Steps to get the latest code
-# Make sure you are in the correct folder which is "DS290422-Python-Bharati"
-# Enter the command "git pull" and now you can access it
+# Make sure you are in the correct path which is inside "~/DS290422/DS290422-Python-Bharati" 
+# Enter the command "git pull" and now you can access my latest code
 
