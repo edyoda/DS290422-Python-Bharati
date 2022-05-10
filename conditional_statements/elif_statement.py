@@ -13,4 +13,3 @@ elif no_1 == no_2:
 else:
     print("As all the above conditions are not satisfied. Hence I am getting printed")
 
-
