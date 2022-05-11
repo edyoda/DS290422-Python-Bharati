@@ -4,7 +4,7 @@
 
 
 for i in range(1,5,1): # <15
-    print(i,"Bharati")
+    print(i,"Bharati","Yadav")
 
 # lst = [5.6,7,3,2,10]
 # print(lst)
