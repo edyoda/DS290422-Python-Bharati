@@ -7,6 +7,6 @@ data = 1
 
 for i in range(1,no_1+1,1):
 
-    fact = data * i  # fact *= 1
+    fact = fact * i  # fact *= 1
     
 print(data)
