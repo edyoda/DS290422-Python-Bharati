@@ -1,12 +1,35 @@
 # print(dir(str))
 
-str1 = "Python Is A Programming Language. Python Is Easy To Learn. So Learn Python"
+str1 = "Python Is A Programming Language."
+str2 = "Python is a programming language."
+
+# print("Before Case Fold : ",str1 == str2)
+
+# str1 = str1.casefold()
+# str2 = str2.casefold()
+
+# print("After Case Fold : ",str1 == str2)
+
+
+
+# enumerate_demo = enumerate(str1)
+# print(list(enumerate_demo))
+
+# strip_demo = str1.strip() # it will remove both whitespaces at the beginning and at the end
+# print(strip_demo)
+
+# strip_demo = str1.lstrip() # will remove beginning white spaces
+# print(strip_demo)
+
+# strip_demo = str1.rstrip() # will remove ending white spaces
+# print(strip_demo)
+
 
 # title_demo = str1.title()
 # print("Title Demo : ",title_demo)
 
-is_title = str1.istitle()
-print("Is title : ",is_title)
+# is_title = str1.istitle()
+# print("Is title : ",is_title)
 
 # count_demo = str1.count("python")
 # print(count_demo)
