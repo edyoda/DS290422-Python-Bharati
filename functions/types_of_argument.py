@@ -35,27 +35,27 @@
 # # Variable-length argument - Arbitrary Positional argument
 # # *args -> tuple
 
-# def family_member_count(*name):
-#     print(type(name))
-#     print(name)
-#     for i in name:
-#         print(i,end="/")
+def family_member_count(*name):
+    print(type(name))
+    print(name[9][3])
+    # for i in range(len(name)): 
+    #     print(name[i])
 
-# family_member_count(1,2,3,4,5,"Deep","Mohit",9.0,True,[1,2,4,5],(6,7,5))
+family_member_count(1,2,3,4,5,"Deep","Mohit",9.0,True,[1,2,4,5],(6,7,5))
 
 # # Variable-length argument - Arbitrary Keyword argument
 # # **kwargs -> dict (here kw means keywords not key)
 
-def students(**student_data):
-    print(type(student_data))
-    for k,v in student_data.items():
-        print(k,"  ",v)
-    for i in student_data:
-        print(i)
-    for i in student_data.values():
-        print(i)
+# def students(**student_data):
+#     print(type(student_data))
+#     for k,v in student_data.items():
+#         print(k,"  ",v)
+#     for i in student_data:
+#         print(i)
+#     for i in student_data.values():
+#         print(i)
 
-students(one="Pankaj",two="Deep",three="Bharati")
+# students(one="Pankaj",two="Deep",three="Bharati")
 
 
 

@@ -43,11 +43,11 @@
 # file.write("Hello")
 
 # w+ mode
-file = open("demo2.txt","w+") 
-file.write("Hello")
-file.write("Hiii")
-data = file.read()
-print(data)
+# file = open("demo2.txt","w+") 
+# file.write("Hello")
+# file.write("Hiii")
+# data = file.read()
+# print(data)
 
 # a+ mode
 # file = open("demo2.txt","a+") 
@@ -55,3 +55,14 @@ print(data)
 # #file.write("Hello")
 # data = file.read()
 # print(data)
+
+file = open("demo2.txt","w+") 
+file.write("Hello")
+file.write(" I am keshav ")
+cur_position = file.tell()
+print("current curser position is : ",cur_position)
+file.seek(0)
+new_position = file.tell()
+print("curser position : ",new_position)
+data = file.read()
+print(data)
