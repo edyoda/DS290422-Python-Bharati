@@ -25,9 +25,10 @@ txt = "hello planet"
 x = re.findall("he..o", txt)
 print(x)
 
-txt = "hell planet"
+txt = "hello planet"
 #Check if the string starts with 'hello':
 x = re.findall("^hello", txt)
+print(x)
 if x:
   print("Yes, the string starts with 'hello'")
 else:
