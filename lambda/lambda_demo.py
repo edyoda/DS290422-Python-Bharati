@@ -21,5 +21,6 @@
 # data = myfunction(4,5)
 # print(data)
 
+# syntax :-   lamda <argument1,argument2> : <expression>
 data = lambda a,b : a + b
 print(data(4,5))

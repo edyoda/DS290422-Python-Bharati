@@ -17,5 +17,5 @@ def sum(lst,lst1):
 data = reduce(sum,num_list)
 print(data)
 
-data = reduce(lambda lst, lst1:lst+lst1, num_list)
+data = reduce(lambda lst,lst1:lst+lst1, num_list)
 print(data)
