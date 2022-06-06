@@ -11,9 +11,9 @@
 # new_dict = {i:i**3 for i in given}
 # print(new_dict)
 
-# numbers=[1,2,3,4,5,6,7,8]
-# dictionary={i:[i*j for j in range(1,11)] for i in numbers}
-# print(dictionary)
+numbers=[1,2,3,4,5,6,7,8]
+dictionary={i:[i*j for j in range(1,11)] for i in numbers}
+print(dictionary)
 
 lst = [1,3,5,7,8,43,6,8]
 lst1 = [8,5,3,2,2,4,6,8]

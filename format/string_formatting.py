@@ -22,5 +22,5 @@ qualification = input("Enter your qualification : ")
 # print(str1)
 
 # F string
-# str1 = f"Your name is {name} and your qualification is {qualification}"
-# print(str1)
+str1 = f"Your name is {name} and your qualification is {qualification}"
+print(str1)

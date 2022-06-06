@@ -1,4 +1,5 @@
 import os
+from tkinter import N
 
 # os.remove("demo.txt")
 
@@ -7,7 +8,7 @@ import os
 # used to delete the folder ... NOTE : it will only delete the empty folder
 # os.rmdir("DS290422-Python-Bharati\delete") 
 
-# file = open("C:\Test\\testing.txt")
+# file = open("C:\Test\\nesting.txt")
 # data = file.read()
 # print(data)
 

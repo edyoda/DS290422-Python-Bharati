@@ -10,7 +10,7 @@ import re
 # data=re.sub(pattern,"",mobile_no)
 # print(data)
 
-# str = "Python" # P#y#t#h#o#n
+# str = "Python" # #P#y#t#h#o#n#
 # pattern=""
 # data=re.sub(pattern,"#",str)
 # print(data)

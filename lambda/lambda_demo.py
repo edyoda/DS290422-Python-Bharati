@@ -5,13 +5,13 @@
 # Function
 # here we need to define the name for the function
 # here we need to define the return statement
-# cannot be called as a parameter in any inbuilt function
+# cannot be define it as a parameter in any inbuilt function
 # complex
 
 # Lambda Function
 # no name is required
 # here no need of return statement
-# can be called as a parameter in any inbuilt function
+# can be define it as a parameter in any inbuilt function
 # it is single line code
 # simple
 

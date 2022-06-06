@@ -184,6 +184,7 @@ import re
 mobile_no ="918009675955"
 regex=re.compile("^[91][1-9]{1}[0-9]{9}")
 data = regex.search(mobile_no)
+print(data)
 if data:
     print("it is a match")
 else:
