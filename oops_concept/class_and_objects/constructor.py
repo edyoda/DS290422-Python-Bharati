@@ -9,8 +9,8 @@
 
 # Types of Constructor
 # 1. Default Constructor - this is provided by compiler when you don't create a constructor in your class
-# 2. Zero Constructor
-# 3. Parameterized Constructor
+# 2. Zero Constructor - are constructors without any parameter
+# 3. Parameterized Constructor - are constructors with parameters
 
 
 # instance - another name for object
@@ -21,6 +21,7 @@
 # - this variable can be called using object
 # - it is defined inside a constructor / method
 # - throughout the class
+# - for every instance variable a seperate memory is allocated
 
 class constructor:
     def __init__(self,name,rno): #constructor

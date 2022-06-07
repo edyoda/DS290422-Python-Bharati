@@ -10,15 +10,7 @@
 # - the scope is within the class.
 # - the class/static variables can be called using class name. 
 # - for eg. <class_name>.<static/class_variable_name> 
-
-# instance - another name for object
-
-# instance variable 
-# - variable which are define with self keyword as prefix are known as instance variable
-# - for eg. self.<variable_name>
-# - this variable can be called using object
-# - it is defined inside a constructor / method
-# - throughout the class
+# - all the static variables shares the same memory
 
 kg_of_cemet = 700 # global variable
 class building:
@@ -46,6 +38,7 @@ building_obj.cemet()
 building_obj.rooms(10)
 building_obj.bricks()
 
-
+# when you have not created any constructor in your class , then compiler gives you
+# an default constructor
 
 
