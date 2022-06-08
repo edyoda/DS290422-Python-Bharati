@@ -11,6 +11,7 @@
 # - the class/static variables can be called using class name. 
 # - for eg. <class_name>.<static/class_variable_name> 
 # - all the static variables shares the same memory
+# - hence it is used for memory management
 
 kg_of_cemet = 700 # global variable
 class building:

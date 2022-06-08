@@ -1,6 +1,8 @@
-class str_demo:
-    def __str__(self):
-        return "Hello Bharati"
+
+class str_demo(object):
+    pass
+    # def __str__(self):
+    #     return "Hello Bharati"
 
 str_demo_obj = str_demo()
-print(str_demo_obj.__str__())
+print(str_demo_obj)

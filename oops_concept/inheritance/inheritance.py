@@ -8,3 +8,12 @@
 # 3. Multiple Inheritance
 # 4. Hierarchical Inheritance
 # 5. Hybrid Inheritance
+
+# Inheritance is also known as Is-A Relationship
+
+Doctor is an employee
+
+doctor extends employee
+
+scientific extends basic_calculator
+
