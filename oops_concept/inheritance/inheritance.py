@@ -11,9 +11,4 @@
 
 # Inheritance is also known as Is-A Relationship
 
-Doctor is an employee
-
-doctor extends employee
-
-scientific extends basic_calculator
 

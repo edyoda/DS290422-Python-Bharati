@@ -35,7 +35,6 @@ class old_tv:
     def audio(self):
         print("mono")
 
-
 class new_tv(old_tv):
     def color(self):
         print("Color TV")

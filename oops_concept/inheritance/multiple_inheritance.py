@@ -32,3 +32,5 @@ python_lang_obj.feature()
 print(python_lang.__mro__) # Method Resolution Order
 print(python_lang.mro())
 
+
+# If some class is not extending any class, then bydefault is extends object class (pre-define class)
