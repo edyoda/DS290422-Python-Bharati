@@ -2,15 +2,15 @@ class A:
     def a(self):
         print("A")
 
-class B(A):
+class B:
     def b(self):
         print("B")
 
-class C(B):
+class C:
     def c(self):
         print("C")
 
-class D(C):
+class D(A,B,C):
     def d(self):
         print("D")
 
