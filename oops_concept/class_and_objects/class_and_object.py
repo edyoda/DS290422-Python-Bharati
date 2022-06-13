@@ -22,6 +22,7 @@ class building:
         print(f"{no_of_rooms} rooms! with {building.coloring} color")
 
     def doors(self,no_of_doors=20):  # local variable
+        local = 78
         print(f"{no_of_doors} doors!")
 
     def bricks(self):
