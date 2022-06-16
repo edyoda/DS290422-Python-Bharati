@@ -1,0 +1,14 @@
+<students>
+    <student>
+        <naam name="first">Ram</naam>
+        <subject>Python</subject>
+    </student>
+    <student>
+        <naam name="second">Mohit</naam>
+        <subject>C</subject>
+    </student>
+    <student>
+        <naam name="third">Harish</naam>
+        <subject>Java</subject>
+    </student>
+</students>
