@@ -1,7 +1,7 @@
-# str1 = "Bharati"
+str1 = "harati"
 
-# start = lambda x : True if x.startswith('B') else False
-# print(start(str1))
+start = lambda x : True if x.startswith('B') else False
+print(start(str1))
 
 # lst = [4,5,6,7,3,8,9,5]
 

@@ -6,8 +6,8 @@
 
 
 # import addition_calculation
-# import addition_calculation as add
-from addition_calculation import *
+import addition_calculation as add
+# from addition_calculation import *
 # from addition_calculation import addition,division
 
 def subtraction():
@@ -22,6 +22,8 @@ def multiplication():
     add = no1 * no2
     return add
 
+print("Name in Calculator : ",__name__)
+
 
 if __name__ == "__main__":
     print("*****************Subraction**************")
@@ -33,10 +35,10 @@ if __name__ == "__main__":
     print("Multiplication : ",result)
 
     print("\n*****************Additon**************")
-    result = addition()
+    result = add.addition()
     print("Addition : ",result)
 
     print("\n*****************Division**************")
-    result = division()
+    result = add.division()
     print("Dvision : ",result)
 

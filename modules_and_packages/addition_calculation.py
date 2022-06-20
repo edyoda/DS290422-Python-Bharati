@@ -1,6 +1,6 @@
 
 
-print(__name__)
+print("Name :", __name__)
 
 def addition():
     print("Addition call ho raha hai phele")

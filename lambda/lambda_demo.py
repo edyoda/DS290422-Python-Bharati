@@ -1,4 +1,4 @@
-# Lambda Expression / Function - it is anonymous function 
+# Lambda Expression / Function - it is a anonymous function 
 # it is a function without a name
 # it can have any number of arguments but can have only one expression (condition)
 
@@ -15,8 +15,8 @@
 # it is single line code
 # simple
 
-# def myfunction(a,b):
-#     return a+b
+def myfunction(a,b):
+    return a+b
 
 # data = myfunction(4,5)
 # print(data)
