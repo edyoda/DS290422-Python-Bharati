@@ -41,5 +41,5 @@ class Student:
         self.experience = experience
 
     def __str__(self):
-        return f"Name : {self.name} \nGender : {self.gender} \nAge : {self.age} \nQualification : {self.qualification} \nExperience : {self.experience}"
+        return f"Name : {self.name} \nGender : {self.gender} \nAge : {self.age} \nQualification : {self.qualification} \nExperience : {self.experience} \nMobile No : {self.mobile_no} \nEmail ID : {self.email_ID}"
         
